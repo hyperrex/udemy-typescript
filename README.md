@@ -1,2 +1,1 @@
-# udemy-typescript
-# udemy-typescript
+# Stephen Grider Typescript course projects from Udemy
